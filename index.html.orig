@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>IFWS Demo</title>
+    </head>
+    <body>
+<<<<<<< HEAD
+        <h2>Hello British Shorthair</h2>
+=======
+        <h2>Hello Dog</h2>
+>>>>>>> parent of a2843c3 (Update again to Hello Cat)
+    </body>
+</html>
